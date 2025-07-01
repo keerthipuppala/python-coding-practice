@@ -1,4 +1,10 @@
 # python-coding-practice
+LINEAR DATA STRUCTURE:
+1.Array/ lists
+
+
+
+
 SEARCHING TECHNOQUES:
 1. LINEAR
 2. BINARY
