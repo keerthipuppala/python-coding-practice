@@ -1,0 +1,57 @@
+file handling
+1. files
+2. types
+3. paths
+4. open/close
+5. read/write
+6. appending dataa into file
+7. files, direcory
+8. os module
+
+
+open() ---> file = open("filename.format","mode)
+mode: r(read), w(write), a(append), x(create), b(binary), t(text)
+file.close() ---> close the file
+file.read() ---> read the file
+file.write() ---> write the file
+file.append() ---> append the file
+file.seek() ---> seek the file
+file.tell() ---> tell the file
+file.readline() ---> readline the file
+
+
+
+r -> read the file which is existed
+w -> write the data in file
+fileno() -> file number
+flush() -> fle stream refresh
+readline/readlines
+rstrip()
+lstrip()
+rstrip() --> remove the right side of the string
+lstrip() --> remove the left side of the string
+strip() --> remove the both side of the string
+
+
+
+SYNTAX
+os.rename(oldfile,newfile)
+
+
+SYS-system
+sys.argv---> cmd line arg
+sys.exit()---> exit the program
+sys.stderr---> error message
+sys.version---> version of python
+sys.patform---> platform of python
+sys.recursionlimit()
+sys.setrecursionlimit()---> set the recursion limit
+sys.getrecursionlimit()---> get the recursion limit
+sys.stdout---> output of the program
+sys.stdin---> input of the program
+sys.path---> path of the program
+sys.modules---> modules of the program
+sys.maxsize---> max size of the program
+
+
+
