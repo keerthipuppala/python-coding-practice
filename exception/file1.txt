@@ -1,0 +1,7 @@
+a
+u
+v
+w
+x
+y
+File does not have integer....File does not have integer....ZeroDivisionError...Key board Error....[2025-07-19 12:25:14] Error: division by zero
