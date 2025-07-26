@@ -1,0 +1,18 @@
+CREATION OF THE NODE
+class node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+
+OPENRATIONS IN LINKED-LIST:
+1. INSERTION:
+a) Insertion at the beginning of the linked list
+b) Insertion at the end of the linked list
+c) Insertion at a specific location in the linked list
+
+2. DELETION
+a) Deletion at the beginning of the linked list
+b) Deletion at the end of the linked list
+c) Deletion at a specific location in the linked list
+
+
