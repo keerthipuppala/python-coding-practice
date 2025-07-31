@@ -1,0 +1,18 @@
+Double LL
+operations:
+1. insertion 
+2. deletion
+3. traversing
+
+head <--> node1<-->node2<-->node3<-->null
+
+class node:
+    def __init__(self, data):
+        self.data = data
+        self.prev = None
+        self.next = None
+
+The time complexity of the above operations are as follows:
+1. insertion: O(n)
+2. deletion: O(n)
+3. search: O(n)
